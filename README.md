@@ -2,7 +2,7 @@
 
 This project demonstrates a multiple linear regression model using Python, `statsmodels`, and `seaborn`.
 
-While the dataset includes real weather observations, the main goal is **not to build a highly accurate temperature prediction model** — but rather to **explore how these Python libraries can be used to generate interpretable regression outputs and visualizations**.
+While the dataset includes real weather observations, the main goal is not to build a highly accurate temperature prediction model — but rather to explore how these Python libraries can be used to generate interpretable regression outputs and visualizations.
 
 ---
 
