@@ -22,7 +22,7 @@ Szeged Weather Data (public dataset)
 
 ---
 
-## 🧠 What This Project Shows
+## 📊 What This Project Shows
 
 - How to build a multiple linear regression model with `statsmodels`  
 - How to visualize insights using `seaborn`:
